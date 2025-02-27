@@ -1,31 +1,32 @@
-# React & Tailwind CSS Starter Pack
+# React Form Project
 
-This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
+This project is a simple form built using React that collects user details and logs the data upon submission.
+
+## Features
+- Controlled form components using `useState`
+- Input fields for user details such as name, gender, email, phone, address, and communication preferences
+- Uses `onChange` event to update state dynamically
+- Prevents default form submission and logs user data in the console
+
+## Technologies Used
+- React
+- Tailwind CSS
+
 
 ## Usage
+1. Fill in the form fields.
+2. Select the appropriate communication preferences.
+3. Click the "Save" button.
+4. The form data will be logged in the browser console.
 
-This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
 
-1. Clone the repository to your local machine.
-    ```sh
-    git clone https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git
-    ```
-
-1. Install the required packages.
-    ```sh
-    cd react-tailwind-css-starter-pack
-    npm install
-    ```
-
-1. Start the development server.
-    ```sh
-    npm start
-    ```
-1. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
-1. Create your React components and add your styles using Tailwind classes. You can also create new CSS files and import them into your components.
-
-The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
+## Connect with Me
+- 🔗 LinkedIn: [mrravikumar](https://www.linkedin.com/in/mrravikumar)
+- 🔗 Portfolio: [mrravikumar.com](https://www.mrravikumar.com)
+- 🌐 Website: [dsa2web.com](https://www.dsa2web.com)
+- 📘 Facebook Page: [dsa2web](https://www.facebook.com/dsa2web)
+- 📸 Instagram: [@dsa2web](https://www.instagram.com/dsa2web)
+- 🐦 Twitter: [@dsa2web](https://www.twitter.com/dsa2web)
+- 📩 LinkedIn Page: [dsa2web](https://www.linkedin.com/company/dsa2web)
+- 📌 Pinterest: [dsa2web](https://www.pinterest.com/dsa2web)
+- 📢 Telegram: [t.me/dsa2web](https://t.me/dsa2web)
